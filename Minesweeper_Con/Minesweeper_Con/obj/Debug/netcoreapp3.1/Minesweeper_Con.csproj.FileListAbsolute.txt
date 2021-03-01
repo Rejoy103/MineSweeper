@@ -1,0 +1,12 @@
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.exe
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.deps.json
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.runtimeconfig.json
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.runtimeconfig.dev.json
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.dll
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\bin\Debug\netcoreapp3.1\Minesweeper_Con.pdb
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.AssemblyInfoInputs.cache
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.AssemblyInfo.cs
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.csproj.CoreCompileInputs.cache
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.dll
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.pdb
+C:\Users\mahandran\source\repos\Minesweeper_Con\Minesweeper_Con\obj\Debug\netcoreapp3.1\Minesweeper_Con.genruntimeconfig.cache
